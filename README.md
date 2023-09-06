@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://guido2288.github.io/Huddle-landing-page/))
+- Live Site URL:https://guido2288.github.io/Huddle-landing-page/
 
 ## My process
 
