@@ -13,10 +13,9 @@ Users should be able to:
 
 ![](./images/Captura.jpeg)
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://guido2288.github.io/Huddle-landing-page/))
 
 ## My process
 
